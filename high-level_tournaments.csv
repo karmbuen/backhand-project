@@ -1,0 +1,45 @@
+﻿city,category,tournament,surface,latitude,longitude,year,winner,backhand
+Melbourne,Grand Slam,Australian Open,Outdoor Hard,-37.813629,144.963058,2021,Novak Djokovic,Two-handed
+Miami,ATP Masters 1000,Miami Open,Outdoor Hard,25.77508,-80.194702,2021,Hubert Hurkacz,Two-handed
+Monte-Carlo,ATP Masters 1000,Rolex Monte-Carlo Masters,Clay,43.74007,7.426644,2021,Stefanos Tsitsipas,One-handed
+Madrid,ATP Masters 1000,Mutua Madrid Open,Clay,40.416775,-3.70379,2021,Alexander Zverev,Two-handed
+Rome,ATP Masters 1000,Internazionali BNL d'Italia,Clay,41.902782,12.496366,2021,Rafael Nadal,Two-handed
+Paris,Grand Slam,Roland Garros,Clay,48.864716,2.349014,2021,Novak Djokovic,Two-handed
+London,Grand Slam,"The Championships, Wimbledon",Grass,51.509865,-0.118092,2021,Novak Djokovic,Two-handed
+Toronto,ATP Masters 1000,National Bank Open Presented by Rogers,Outdoor Hard,43.65107,-79.347015,2021,Daniil Medvedev,Two-handed
+Cincinatti,ATP Masters 1000,Western & Southern Open,Outdoor Hard,40.65804,-80.5816,2021,Alexander Zverev,Two-handed
+New York,Grand Slam,US Open,Outdoor Hard,40.712776,-74.005974,2021,Daniil Medvedev,Two-handed
+Indian Wells,ATP Masters 1000,Indian Wells Open,Outdoor Hard,33.72155,-116.3268,2021,Cameron Norrie,Two-handed
+Paris,ATP Masters 1000,Rolex Paris Masters,Indoor Hard,48.864716,2.349014,2021,Novak Djokovic,Two-handed
+Turin,ATP Finals,Nitto ATP Finals,Indoor Hard,45.116177,7.742615,2021,Alexander Zverev,Two-handed
+Melbourne,Grand Slam,Australian Open,Outdoor Hard,-37.813629,144.963058,2022,Rafael Nadal,Two-handed
+Indian Wells,ATP Masters 1000,BNP Paribas Open,Outdoor Hard,33.72155,-116.3268,2022,Taylor Fritz,Two-handed
+Miami,ATP Masters 1000,Miami Open,Outdoor Hard,25.77508,-80.194702,2022,Carlos Alcaraz,Two-handed
+Monte-Carlo,ATP Masters 1000,Rolex Monte-Carlo Masters,Clay,43.74007,7.426644,2022,Stefanos Tsitsipas,One-handed
+Madrid,ATP Masters 1000,Mutua Madrid Open,Clay,40.416775,-3.70379,2022,Carlos Alcaraz,Two-handed
+Rome,ATP Masters 1000,Internazionali BNL d'Italia,Clay,41.902782,12.496366,2022,Novak Djokovic,Two-handed
+Paris,Grand Slam,Roland Garros,Clay,48.864716,2.349014,2022,Rafael Nadal,Two-handed
+London,Grand Slam,"The Championships, Wimbledon",Grass,51.509865,-0.118092,2022,Novak Djokovic,Two-handed
+Montreal,ATP Masters 1000,National Bank Open Presented by Rogers,Outdoor Hard,45.508888,-73.561668,2022,Pablo Carreno Busta,Two-handed
+Cincinatti,ATP Masters 1000,Western & Southern Open,Outdoor Hard,40.65804,-80.5816,2022,Borna Coric,Two-handed
+New York,Grand Slam,US Open,Outdoor Hard,40.712776,-74.005974,2022,Carlos Alcaraz,Two-handed
+Paris,ATP Masters 1000,Rolex Paris Masters,Indoor Hard,48.864716,2.349014,2022,Holger Rune,Two-handed
+Turin,ATP Finals,Nitto ATP Finals,Indoor Hard,45.116177,7.742615,2022,Novak Djokovic,Two-handed
+Melbourne,Grand Slam,Australian Open,Outdoor Hard,-37.813629,144.963058,2023,Novak Djokovic,Two-handed
+Indian Wells,ATP Masters 1000,BNP Paribas Open,Outdoor Hard,33.72155,-116.3268,2023,Carlos Alcaraz,Two-handed
+Miami,ATP Masters 1000,Miami Open Presented by Itau,Outdoor Hard,25.77508,-80.194702,2023,Daniil Medvedev,Two-handed
+Monte-Carlo,ATP Masters 1000,Rolex Monte-Carlo Masters,Clay,43.74007,7.426644,2023,Andrey Rublev,Two-handed
+Madrid,ATP Masters 1000,Mutua Madrid Open,Clay,40.416775,-3.70379,2023,Carlos Alcaraz,Two-handed
+Rome,ATP Masters 1000,Internazionali BNL D'Italia,Clay,41.902782,12.496366,2023,Daniil Medvedev,Two-handed
+Paris,Grand Slam,Roland-Garros,Clay,48.864716,2.349014,2023,Novak Djokovic,Two-handed
+London,Grand Slam,"The Championships, Wimbledon",Grass,51.509865,-0.118092,2023,Carlos Alcaraz,Two-handed
+Toronto,ATP Masters 1000,National Bank Open Presented by Rogers,Outdoor Hard,43.65107,-79.347015,2023,Jannik Sinner,Two-handed
+Cincinatti,ATP Masters 1000,Cincinatti Open,Outdoor Hard,40.65804,-80.5816,2023,Novak Djokovic,Two-handed
+New York,Grand Slam,US Open,Outdoor Hard,40.712776,-74.005974,2023,Novak Djokovic,Two-handed
+Shanghai,ATP Masters 1000,Rolex Shanghai Masters,Outdoor Hard,31.224361,121.46917,2023,Hubert Hurkacz,Two-handed
+Paris,ATP Masters 1000,Rolex Paris Masters,Indoor Hard,48.864716,2.349014,2023,Novak Djokovic,Two-handed
+Turin,ATP Finals,Nitto ATP Finals,Indoor Hard,45.116177,7.742615,2023,Novak Djokovic,Two-handed
+Melbourne,Grand Slam,Australian Open,Outdoor Hard,-37.813629,144.963058,2024,Jannik Sinner,Two-handed
+Indian Wells,ATP Masters 1000,BNP Paribas Open,Outdoor Hard,33.72155,-116.3268,2024,Carlos Alcaraz,Two-handed
+Miami,ATP Masters 1000,Miami Open Presented by Itau,Outdoor Hard,25.77508,-80.194702,2024,Jannik Sinner,Two-handed
+Monte-Carlo,ATP Masters 1000,Rolex Monte-Carlo Masters,Clay,43.74007,7.426644,2024,Stefanos Tsitsipas,One-handed
